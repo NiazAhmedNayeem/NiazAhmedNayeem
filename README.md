@@ -3,21 +3,23 @@
 <h1 align="center">Hi 👋, I'm Niaz Ahmed Nayeem</h1>
 <h3 align="center">A Passionate Software Engineer from Bangladesh.</h3>
 
-<img align="right" alt="codding gif" width="400" height="500" src="https://cdn.thegazelle.org/gazelle/2013/05/hacker_animation.gif"/>
+<img align="right" alt="codding gif" width="400"   src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=Profile%20views&color=0e75b6&style=flat" alt="niazahmednayeem" /> </p>
+
+<p align="left"> <a href="https://twitter.com/niazahmednayeem" target="blank"><img src="https://img.shields.io/twitter/follow/niazahmednayeem?logo=twitter&style=for-the-badge" alt="niazahmednayeem" /></a> </p>
 
 - 🔭 I’m currently working on [Online Training Management System (OTMS)](https://github.com/NiazAhmedNayeem/OTMS)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NiazAhmedNayeem/Portfolio](https://github.com/NiazAhmedNayeem/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/NiazAhmedNayeem/Portfolio)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap 5, PHP, Laravel**
 
 - 📫 How to reach me **niazahmed.net@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/nq157](https://drive.google.com/file/d/1ggQDHqx9rp6jcS_2lbxBot_FcQ6kggHj/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1ggQDHqx9rp6jcS_2lbxBot_FcQ6kggHj/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny...**
 
