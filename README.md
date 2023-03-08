@@ -1,3 +1,5 @@
+![logo](https://github.com/NiazAhmedNayeem/NiazAhmedNayeem/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Niaz Ahmed Nayeem</h1>
 <h3 align="center">A Passionate Software Engineer from Bangladesh.</h3>
 
