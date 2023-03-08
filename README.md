@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/NiazAhmedNayeem/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://niazahmednayeem.github.io/home/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap 5, PHP, Laravel**
 
