@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niaz Ahmed Nayeem</h1>
 <h3 align="center">A Passionate Software Engineer from Bangladesh.</h3>
 
-<img align="right" alt="codding gif" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img align="right" alt="codding gif" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=Profile%20views&color=0e75b6&style=flat" alt="niazahmednayeem" /> </p>
 
