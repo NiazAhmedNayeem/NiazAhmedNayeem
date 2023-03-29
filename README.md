@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/niazahmednayeem" target="blank"><img src="https://img.shields.io/twitter/follow/niazahmednayeem?logo=twitter&style=for-the-badge" alt="niazahmednayeem" /></a> </p>
 
-- 🔭 I’m currently working on [Online Training Management System (OTMS)](https://github.com/NiazAhmedNayeem/OTMS)
+- 🔭 I’m currently working on [Online Training Management System (OTMS)](https://github.com/NiazAhmedNayeem/Online_Training_Management_System)
 
 - 🌱 I’m currently learning **JavaScript**
 
