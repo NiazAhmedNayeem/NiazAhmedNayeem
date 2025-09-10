@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/niazahmednayeem" target="blank"><img src="https://img.shields.io/twitter/follow/niazahmednayeem?logo=twitter&style=for-the-badge" alt="niazahmednayeem" /></a> </p>
 
-- 🔭 I’m currently working on [E-learning platform](https://github.com/NiazAhmedNayeem/student_management)
+- 🔭 I’m currently working on [E-learning platform](https://github.com/NiazAhmedNayeem/e_learning_platform)
 
 - 🌱 I’m currently learning **JavaScript**
 
