@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=VISITORS&color=228B22&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/NiazSVD?label=Followers&style=for-the-badge&color=228B22&logo=github" />
-  <img src="https://img.shields.io/github/stars/NiazSVD?label=Total%20Stars&style=for-the-badge&color=228B22&logo=reverbnation" />
+  <img src="https://img.shields.io/github/followers/niazahmednayeem?label=Followers&style=for-the-badge&color=228B22&logo=github" />
+  <img src="https://img.shields.io/github/stars/niazahmednayeem?label=Total%20Stars&style=for-the-badge&color=228B22&logo=reverbnation" />
   <img src="https://img.shields.io/badge/Maintained%3F-yes-00FF41.svg?style=for-the-badge&color=228B22" />
 </p>
 
@@ -18,6 +18,8 @@
   <a href="mailto:niazahmed.net@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/01886509310"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+
 
 ---
 
@@ -34,9 +36,6 @@
         <li>📫 <b>Contact:</b> niazahmed.net@gmail.com</li>
         <li>⚡ <b>Fun Fact:</b> I think I am funny... (at least my code doesn't crash on weekends!)</li>
       </ul>
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=VISITORS&color=0e75b6&style=for-the-badge" />
-      </p>
     </td>
     <td width="45%" valign="top">
       <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
@@ -83,6 +82,14 @@
 </p>
 
 ---
+
+### ✍️ Random Quote for Today
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 
 ### 🤝 Connect with Me
 
