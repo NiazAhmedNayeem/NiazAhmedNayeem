@@ -78,34 +78,21 @@
 <!-- ====== Stats Section (2 Column) ====== -->
 <table align="center" width="100%">
   
-  <!-- Row 1: Stats (Both Dark Theme) -->
+  <!-- Row 1: Stats (2 Column) -->
   <tr>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
         width="100%" 
       />
     </td>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&hide_border=true&color=0e75b6" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&color=0e75b6&hide_border=true" 
         width="100%" 
       />
     </td>
   </tr>
-
-  <!-- Row 2: Snake (Dark) -->
-  <tr>
-    <!-- <td colspan="2" align="center"> -->
-      <!-- <br/> -->
-      <!-- <img 
-        alt="GitHub Contribution Snake Dark"
-        src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg"
-        width="100%"
-      /> -->
-    <!-- </td> -->
-  </tr>
-
 </table>
 
 
