@@ -45,18 +45,27 @@
 
 ---
 
-### 🛠️ Professional Tech Stack
+### 🛠️ Professional Expertise
 
-<div align="center">
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,redis,sqlite,nodejs" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,linux,vscode" /> |
-| **Creative** | <img src="https://skillicons.dev/icons?i=ps,ai,figma" /> |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b>🚀 Backend Development</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,redis,nodejs" /><br/>
+      <i>Architecting robust logic</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>🎨 Frontend & Design</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,figma" /><br/>
+      <i>Responsive UI/UX</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>⚙️ DevOps & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,linux,vscode" /><br/>
+      <i>Deployment & Scaling</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
