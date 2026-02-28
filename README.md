@@ -96,14 +96,14 @@
 
   <!-- Row 2: Snake (Dark) -->
   <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img 
+    <!-- <td colspan="2" align="center"> -->
+      <!-- <br/> -->
+      <!-- <img 
         alt="GitHub Contribution Snake Dark"
         src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg"
         width="100%"
-      />
-    </td>
+      /> -->
+    <!-- </td> -->
   </tr>
 
 </table>
