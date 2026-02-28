@@ -2,15 +2,9 @@
   <img src="https://raw.githubusercontent.com/NiazAhmedNayeem/NiazAhmedNayeem/main/Banner.png" width="100%" alt="Niaz Banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Niaz+Ahmed+Nayeem;Software+Engineer;Full+Stack+Laravel+Developer;Building+Digital+Experiences" alt="Typing SVG" />
-</p>
 
-<p align="center">
-<a href="https://github.com/niazahmednayeem">
-  <img src="https://github-profile-trophy.vercel.app/?username=niazahmednayeem&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="niazahmednayeem trophies" />
-</a>
-</p>
+<h1 align="center">Hi 👋, I'm Niaz Ahmed Nayeem</h1>
+<h3 align="center">A Passionate Software Engineer from Bangladesh.</h3>
 
 ---
 
@@ -89,5 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 </p>
