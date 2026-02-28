@@ -75,7 +75,10 @@
 
 ### 📊 Performance Metrics
 
+<!-- ====== Stats Section (2 Column) ====== -->
 <table align="center" width="100%">
+  
+  <!-- Row 1: Stats (2 Column) -->
   <tr>
     <td width="50%" align="center">
       <img 
@@ -90,17 +93,22 @@
       />
     </td>
   </tr>
+
+  <!-- Row 2: Snake (Full Width) -->
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img 
+        src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg" 
+        width="100%"
+      />
+    </td>
+  </tr>
+
 </table>
 
+<br/>
 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
