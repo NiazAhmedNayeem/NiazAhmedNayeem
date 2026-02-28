@@ -78,45 +78,45 @@
 <!-- ====== Stats Section (2 Column) ====== -->
 <table align="center" width="100%">
   
-  <!-- Row 1: Stats -->
+  <!-- Row 1: Stats (Both Dark Theme) -->
   <tr>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
         width="100%" 
       />
     </td>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&color=0e75b6&hide_border=true" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&hide_border=true&color=0e75b6" 
         width="100%" 
       />
     </td>
   </tr>
 
-  <!-- Row 2: Snake -->
+  <!-- Row 2: Snake (Dark) -->
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg"
-        >
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg"
-        >
-        <img 
-          alt="GitHub Contribution Snake"
-          src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg"
-          width="100%"
-        >
-      </picture>
+      <img 
+        alt="GitHub Contribution Snake Dark"
+        src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg"
+        width="100%"
+      />
     </td>
   </tr>
 
 </table>
+
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <br/>
 
