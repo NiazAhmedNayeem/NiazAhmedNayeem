@@ -99,7 +99,7 @@
   
   <!-- Row 1: Stats (2 Column) -->
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niazahmednayeem/niazahmednayeem/output/github-contribution-grid-snake-dark.svg">
