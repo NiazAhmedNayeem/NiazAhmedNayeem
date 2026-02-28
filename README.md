@@ -48,9 +48,9 @@
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="center" width="33%">🚀 Backend Development</th>
-      <th align="center" width="33%">🎨 Frontend & Design</th>
-      <th align="center" width="33%">⚙️ DevOps & Tools</th>
+      <th align="center" width="33%">Backend Development</th>
+      <th align="center" width="33%">Frontend & Design</th>
+      <th align="center" width="33%">DevOps & Tools</th>
     </tr>
   </thead>
   <tbody>
