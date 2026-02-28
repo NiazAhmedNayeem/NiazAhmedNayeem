@@ -7,19 +7,17 @@
 <h3 align="center">A Passionate Software Engineer from Bangladesh.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=VISITORS&color=228B22&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/niazahmednayeem?label=Followers&style=for-the-badge&color=228B22&logo=github" />
-  <img src="https://img.shields.io/github/stars/niazahmednayeem?label=Total%20Stars&style=for-the-badge&color=228B22&logo=reverbnation" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-00FF41.svg?style=for-the-badge&color=228B22" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/niazahmednayeem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:niazahmed.net@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/01886509310"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=VISITORS&color=228B22&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/niazahmednayeem?label=Followers&style=for-the-badge&color=228B22&logo=github" />
+  <img src="https://img.shields.io/github/stars/niazahmednayeem?label=Total%20Stars&style=for-the-badge&color=228B22&logo=reverbnation" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-00FF41.svg?style=for-the-badge&color=228B22" />
+</p>
 
 ---
 
@@ -77,14 +75,22 @@
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=niazahmednayeem&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&color=0e75b6&hide_border=true" width="100%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
+        width="100%" 
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&color=0e75b6&hide_border=true" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
 
 
 
