@@ -59,9 +59,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niazahmednayeem&theme=react-dark&color=0e75b6&hide_border=true" width="100%" />
 </p>
 
----
 
-### 🐍 The Code Journey (Snake)
 
 <p align="center">
   <picture>
