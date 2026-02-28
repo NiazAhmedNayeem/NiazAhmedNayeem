@@ -57,7 +57,7 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niazahmednayeem&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=niazahmednayeem&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niazahmednayeem&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" width="48%" />
 </p>
 
