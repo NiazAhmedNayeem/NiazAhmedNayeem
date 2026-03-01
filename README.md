@@ -30,7 +30,7 @@
       <ul>
         <li>🔭 <b>Current Project:</b> <a href="https://github.com/NiazAhmedNayeem/e_learning_platform">E-learning Platform</a></li>
         <li>🌱 <b>Learning Zone:</b> React.js, AWS Cloud & Docker</li>
-        <li>👨‍💻 <b>Portfolio:</b> <a href="https://niazahmednayeem.github.io/portfolio/">niazahmednayeem.dev</a></li>
+        <li>👨‍💻 <b>Portfolio:</b> <a href="https://niazahmednayeem.github.io/portfolio/" target="_blank">niazahmednayeem.dev</a></li>
         <li>📫 <b>Contact:</b> niazahmed.net@gmail.com</li>
         <li>⚡ <b>Fun Fact:</b> I think I am funny... (at least my code doesn't crash on weekends!)</li>
       </ul>
