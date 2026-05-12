@@ -113,7 +113,6 @@
 
 <br/>
 
-
 ---
 
 ### ✍️ Random Quote for Today
@@ -122,7 +121,6 @@
 </p>
 
 ---
-
 
 ### 🤝 Connect with Me
 
