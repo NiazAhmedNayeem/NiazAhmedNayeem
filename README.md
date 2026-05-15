@@ -14,8 +14,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niazahmednayeem&label=VISITORS&color=228B22&style=for-the-badge" />
+  
   <img src="https://img.shields.io/github/followers/niazahmednayeem?label=Followers&style=for-the-badge&color=228B22&logo=github" />
+  
   <img src="https://img.shields.io/github/stars/niazahmednayeem?label=Total%20Stars&style=for-the-badge&color=228B22&logo=reverbnation" />
+  
   <img src="https://img.shields.io/badge/Maintained%3F-yes-00FF41.svg?style=for-the-badge&color=228B22" />
 </p>
 
